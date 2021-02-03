@@ -12,5 +12,5 @@ This is some info about me:
 ### Languages and Tools:
 
 - ![Flutter](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c++)  
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=data:assets/cpp.png)  
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=data:assets/jupyter.svg)
