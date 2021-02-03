@@ -18,3 +18,7 @@ This is some info about me:
 - ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram)  
 - ![Linux](https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux)
 - ![Android-Studio](https://img.shields.io/badge/-Android_Studio-white?style=for-the-badge&logo=Android-Studio)
+
+[![MelikbekyanAshot's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelikbekyanAshot&show_icons=true)](https://github.com/MelikbekyanAshot/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelikbekyanAshot&langs_count=8)](https://github.com/MelikbekyanAshot/github-readme-stats)
