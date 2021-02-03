@@ -12,3 +12,4 @@ This is some info about me:
 ### Languages and Tools:
 
 - [![Header](https://github.com/MelikbekyanAshot/MelikbekyanAshot/blob/main/assets/python.png)]
+- ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=appveyor)
