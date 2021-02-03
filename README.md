@@ -12,3 +12,4 @@ This is some info about me:
 ### Languages and Tools:
 
 - ![Flutter](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
+- ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cpp)
