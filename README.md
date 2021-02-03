@@ -11,4 +11,4 @@ This is some info about me:
 
 ### Languages and Tools:
 
-- ![Flutter](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+- ![Flutter](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
