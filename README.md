@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+This is some info about me:
 
 - 🔭 I’m currently working on mobile app called Lama, it's mean Linear Algebra and Math Analysis. This app provode you help with solving math problems.
 - 🌱 I’m currently learning android development.
