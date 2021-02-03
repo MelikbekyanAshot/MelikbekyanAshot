@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MelikbekyanAshot/MelikbekyanAshot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on mobile app called Lama, it's mean Linear Algebra and Math Analysis. This app provode you help with solving math problems.
