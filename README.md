@@ -8,3 +8,7 @@ This is some info about me:
 - 🤔 I’m looking for help with android development.
 - 💬 Ask me about data structers and algoruthms.
 - 📫 How to reach me: melikbekyan.ashot@yandex.ru
+
+### Languages and Tools:
+
+-
