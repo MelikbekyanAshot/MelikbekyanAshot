@@ -11,6 +11,10 @@ This is some info about me:
 
 ### Languages and Tools:
 
-- ![Flutter](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=data:assets/cpp.png)  
-- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=data:assets/jupyter.svg)
+- ![Python](https://img.shields.io/badge/-Python-FFCC22?style=for-the-badge&logo=python)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b)  
+- ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter)
+- ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram)  
+- ![Linux](https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux)
+- ![Android-Studio](https://img.shields.io/badge/-Android_Studio-white?style=for-the-badge&logo=Android-Studio)
