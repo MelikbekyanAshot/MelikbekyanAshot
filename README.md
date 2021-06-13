@@ -9,17 +9,20 @@ This is some info about me:
 - 💬 Ask me about data structers and algoruthms.
 - 📫 How to reach me: melikbekyan.ashot@yandex.ru
 
-### Languages and Tools:
+### Languages:
 
 - ![Python](https://img.shields.io/badge/-Python-FFCC22?style=for-the-badge&logo=python)
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b)  
 - ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
+
+### Tools:
+- ![R](https://img.shields.io/badge/-RStudio-white?style=for-the-badge&logo=rstudio)
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter)
 - ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram)  
 - ![Linux](https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux)
 - ![Android-Studio](https://img.shields.io/badge/-Android_Studio-white?style=for-the-badge&logo=Android-Studio)
 - ![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git)
-- ![R](https://img.shields.io/badge/-RStudio-white?style=for-the-badge&logo=rstudio)
+- ![Figma](https://img.shields.io/badge/-Figma-#F24E1E?style=for-the-badge&logo=Figma)
 
 [![MelikbekyanAshot's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelikbekyanAshot&show_icons=true)](https://github.com/MelikbekyanAshot/github-readme-stats)
 
