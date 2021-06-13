@@ -22,7 +22,7 @@ This is some info about me:
 - ![Linux](https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux)
 - ![Android-Studio](https://img.shields.io/badge/-Android_Studio-white?style=for-the-badge&logo=Android-Studio)
 - ![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git)
-- ![Figma](https://img.shields.io/badge/-Figma-#F24E1E?style=for-the-badge&logo=Figma)
+- ![Figma](https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=Figma)
 
 [![MelikbekyanAshot's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelikbekyanAshot&show_icons=true)](https://github.com/MelikbekyanAshot/github-readme-stats)
 
