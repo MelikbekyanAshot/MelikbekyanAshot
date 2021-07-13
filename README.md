@@ -21,6 +21,8 @@
 #### [Лама](https://github.com/std-22/LAMA)
 - реализация функционала приложения
 
-[![MelikbekyanAshot's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelikbekyanAshot&show_icons=true)](https://github.com/MelikbekyanAshot/github-readme-stats)
+### Образование
+- Третий курс РТУ МИРЭА, Прикадная Информатика
+- Курсы по android разработке на Открытом образовании от ИТМО
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelikbekyanAshot&langs_count=8)](https://github.com/MelikbekyanAshot/github-readme-stats)
+[![MelikbekyanAshot's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelikbekyanAshot&show_icons=true)](https://github.com/MelikbekyanAshot/github-readme-stats)
