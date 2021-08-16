@@ -23,6 +23,7 @@
 
 ### Образование
 - Третий курс РТУ МИРЭА, Прикадная Информатика
-- Курсы по android разработке на Открытом образовании от ИТМО
+- Быстрый старт в разработке Android-приложений от МФТИ([сертификат](https://coursera.org/share/f19dedb2fd6a6cd3a6eab36008df83d8)) 
+- Курсы по Android разработке на Открытом образовании от ИТМО
 
 [![MelikbekyanAshot's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelikbekyanAshot&show_icons=true)](https://github.com/MelikbekyanAshot/github-readme-stats)
