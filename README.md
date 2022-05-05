@@ -2,7 +2,11 @@
 <h3 align="center">Data science student</h3>
 
 ## My projects:
-- [PICA](https://share.streamlit.io/melikbekyanashot/pica/main/main_app.py) - web site for style transfer, more detailes on [repo](https://github.com/MelikbekyanAshot/PICA)
+- [PICA](https://share.streamlit.io/melikbekyanashot/pica/main/main_app.py) - web site for style transfer, more detailes in [repo](https://github.com/MelikbekyanAshot/PICA)
+
+## Participation in hackathons:
+- Development of algorithms for generating voice deepfakes, 3rd place: implemented an algorithm for cleaning the speaker's audio recordings from noise and deployed model. 
+- WoodHack: classification of wood images into classes grade 1, grade 3 and firewood
 
 ## My skills:
 Programming languages:
