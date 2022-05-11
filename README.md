@@ -35,4 +35,5 @@ Design tools:
 ## Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelikbekyanAshot)](https://github.com/anuraghazra/github-readme-stats)
 
+## LeetCode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MelikbekyanAshot)](https://github.com/KnlnKS/leetcode-stats)
