@@ -3,6 +3,7 @@
 
 ## My projects:
 - [PICA](https://share.streamlit.io/melikbekyanashot/pica/main/main_app.py) - web site for style transfer, more detailes in [repo](https://github.com/MelikbekyanAshot/PICA)
+- Speech synthesizer - a website that uses neural networks to generate voice speech (in process of deployment)
 
 ## Participation in hackathons:
 - Development of algorithms for generating voice deepfakes, 3rd place: implemented an algorithm for cleaning the speaker's audio recordings from noise and deployed model. 
