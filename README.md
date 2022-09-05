@@ -4,7 +4,7 @@
 ## My projects:
 - [PICA](https://share.streamlit.io/melikbekyanashot/pica/main/main_app.py) - web site for style transfer, more detailes in [repo](https://github.com/MelikbekyanAshot/PICA)
 - Speech synthesizer - a website that uses neural networks to generate voice speech (in process of deployment)
-- ABC Classification - library for abc classification (in process of development and publishing on pypi.org)
+- [ABC Classification](https://github.com/MelikbekyanAshot/abc-classification) - library for abc classification (in process of development and publishing on pypi.org)
 
 ## Participation in hackathons:
 - Development of algorithms for generating voice deepfakes, 3rd place: implemented an algorithm for cleaning the speaker's audio recordings from noise and deployed model. 
