@@ -5,9 +5,10 @@
 - [PICA](https://share.streamlit.io/melikbekyanashot/pica/main/main_app.py) - web site for style transfer, more detailes in [repo](https://github.com/MelikbekyanAshot/PICA)
 - Speech synthesizer - a website that uses neural networks to generate voice speech (in process of deployment)
 - [ABC Classification](https://github.com/MelikbekyanAshot/abc-classification) - library for abc classification (in process of development and publishing on pypi.org)
+- [HabrParser](https://github.com/MelikbekyanAshot/Data-Science/tree/main/Habr%20Parser) - I parsed [habr](https://habr.com/ru/all/) and make some analysis: word clouds, engagement rate calculation and correlation analysis.
 
 ## Participation in hackathons:
-- Development of algorithms for generating voice deepfakes, 3rd place: implemented an algorithm for cleaning the speaker's audio recordings from noise, removed silence and deployed model. 
+- Development of algorithms for generating voice deepfakes, 3rd place: implemented an algorithm for cleaning the speaker's audio recordings from noise, removed silence and made demo application. 
 - WoodHack: classification of wood images into classes grade 1, grade 3 and firewood
 
 ## My skills:
