@@ -4,7 +4,7 @@
 ## My projects:
 - [PICA](https://share.streamlit.io/melikbekyanashot/pica/main/main_app.py) - web site for style transfer, more detailes in [repo](https://github.com/MelikbekyanAshot/PICA)
 - Speech synthesizer - a website that uses neural networks to generate voice speech (in process of deployment)
-- [ABC Classification](https://github.com/MelikbekyanAshot/abc-classification) - library for abc classification (in process of development and publishing on pypi.org)
+- [ABC Classification](https://pypi.org/project/abc-classification/) - library for abc classification, developed and published on pypi.org.
 - [HabrParser](https://github.com/MelikbekyanAshot/Data-Science/tree/main/Habr%20Parser) - I parsed [habr](https://habr.com/ru/all/) and make some analysis: word clouds, engagement rate calculation and correlation analysis.
 
 ## Participation in hackathons:
