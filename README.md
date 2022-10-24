@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ashot<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hello there, I'm Ashot<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data science student</h3>
 
 ## My projects:
