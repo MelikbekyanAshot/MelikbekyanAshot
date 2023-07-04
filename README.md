@@ -1,15 +1,21 @@
 <h1 align="center">Hello there, I'm Ashot<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data science student</h3>
 
+## Work Experience
+- [Coelus](https://coelus.ru/) -developed graph algorithms in NLP, optimized code
+
+## Education
+- Bachelor Degree in Applied Informatics at MIREA - Russian Technological University
+
 ## My projects:
-- [PICA](https://share.streamlit.io/melikbekyanashot/pica/main/main_app.py) - web site for style transfer, more detailes in [repo](https://github.com/MelikbekyanAshot/PICA)
+- [Stereo Depth Estimation](https://github.com/MelikbekyanAshot/stereo-depth-estimation) - developed neural net for fast and memory efficient stereo depth estimation
+- [PICA](https://share.streamlit.io/melikbekyanashot/pica/main/main_app.py) - web site for style transfer, more detailes in [code](https://github.com/MelikbekyanAshot/PICA)
 - [Tiling problem solution](https://github.com/MelikbekyanAshot/CoelusTestTask) - python application for tiling problem solution, details are in repo.
-- [ABC Classification](https://pypi.org/project/abc-classification/) - library for abc classification, developed and published on pypi.org.
 - [HabrParser](https://github.com/MelikbekyanAshot/Data-Science/tree/main/Habr%20Parser) - I parsed [habr](https://habr.com/ru/all/) and make some analysis: word clouds, engagement rate calculation and correlation analysis.
 
 ## Participation in hackathons:
 - Development of algorithms for generating voice deepfakes, 3rd place: implemented an algorithm for cleaning the speaker's audio recordings from noise, removed silence and made demo application. 
-- WoodHack: classification of wood images into classes grade 1, grade 3 and firewood
+- WoodHack: classification of wood images into classes grade 1, grade 3 and firewood, [code](https://github.com/MelikbekyanAshot/wood-classification/tree/main)
 
 ## My skills:
 Programming languages:
