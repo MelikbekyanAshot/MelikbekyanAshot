@@ -11,6 +11,9 @@
   - Trained neural net for semantic segmentation of liver cells.
   - Developed demo version with GUI.
  
+## Publications
+- Research on the content of medical essays: neural networks approaches and traditional methods, available by [link](https://applied-research.ru/ru/article/view?id=13640)
+ 
 ## Education
 - 2023-2025, Masters Degree in Applied Mathematics at MIREA - Russian Technological University
 - 2019-2023, Bachelor Degree in Applied Informatics at MIREA - Russian Technological University
