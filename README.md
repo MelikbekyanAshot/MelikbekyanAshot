@@ -61,8 +61,8 @@ Design tools:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## LeetCode
+![Leetcode Stats](https://leetcard.jacoblin.cool/MelikbekyanAshot)
+
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelikbekyanAshot)](https://github.com/anuraghazra/github-readme-stats)
-
-## LeetCode
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MelikbekyanAshot)](https://github.com/KnlnKS/leetcode-stats)
