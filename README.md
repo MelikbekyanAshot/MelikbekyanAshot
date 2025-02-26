@@ -2,16 +2,16 @@
 <h3 align="center">Data Scientist</h3>
 
 ## Work Experience
-- NLP-egineer at [Coelus](https://coelus.ru/), Nov 2022 - Oct 2024:
-   - Developed graph algorithms and data structures to extract information from text.
-   - Increased the speed of data preprocessing using multiprocessing.
-   - Improved code quality through the use of principles of code development (SOLID, KISS, DRY, etc).
-   - Decreased volume of space consumed by serialized files through the use of an efficient method of storing data.
 - Data Scientist at [Proekt-Technika](https://pr-t.ru/), Oct 2024 - now. 
 - Data Scientist at scientific research, April 2024 - now:
   - Trained neural net for semantic segmentation of liver cells.
   - Developed demo version with GUI.
- 
+ - NLP-egineer at [Coelus](https://coelus.ru/), Nov 2022 - Oct 2024:
+   - Developed graph algorithms and data structures to extract information from text.
+   - Increased the speed of data preprocessing using multiprocessing.
+   - Improved code quality through the use of principles of code development (SOLID, KISS, DRY, etc).
+   - Decreased volume of space consumed by serialized files through the use of an efficient method of storing data.
+   
 ## Publications
 - Research on the content of medical essays: neural networks approaches and traditional methods, available by [link](https://applied-research.ru/ru/article/view?id=13640)
  
