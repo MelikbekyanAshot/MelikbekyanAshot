@@ -2,10 +2,11 @@
 <h3 align="center">Data Scientist</h3>
 
 ## Work Experience
-- Data Scientist at [Proekt-Technika](https://pr-t.ru/), Oct 2024 - now. 
-- Data Scientist at scientific research, April 2024 - now:
+- NLP Data Scientist at [Sber](https://www.sberbank.ru/ru/), April 2025 - now.
+- NLP Data Scientist at [Proekt-Technika](https://pr-t.ru/), Oct 2024 - March 2025. 
+- CV Data Scientist at scientific research, April 2024 - now:
   - Trained neural net for semantic segmentation of liver cells.
-  - Developed demo version with GUI.
+  - Developed GUI application.
  - NLP-egineer at [Coelus](https://coelus.ru/), Nov 2022 - Oct 2024:
    - Developed graph algorithms and data structures to extract information from text.
    - Increased the speed of data preprocessing using multiprocessing.
